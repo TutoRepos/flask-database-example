@@ -1,7 +1,7 @@
 cryptography==2.6.1
 Flask_SQLAlchemy==2.4.1
 watchdog==0.10.2
-lxml==4.5.0
+lxml==4.6.2
 Flask==1.1.2
 Cython==0.29.16
 ipaddr==2.2.0
